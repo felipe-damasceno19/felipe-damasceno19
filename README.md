@@ -36,21 +36,8 @@ I have experience with **MVC architecture**, **layered architecture**, and data 
 
 ## 📚 Currently Learning
 
-- Kotlin (mobile development)
-
----
-
-## 📦 Featured Project
-
-### Vitalis
-
-Commercial management system developed with **Spring Boot** for managing:
-
-- inventory
-- finances
-- orders
-
-This project applies in practice concepts such as **layered architecture, data persistence, and business logic**.
+- AWS(Amazon Web Services)
+- SDD(Spec Driven Development)
 
 ---
 
