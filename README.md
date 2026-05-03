@@ -7,7 +7,7 @@ I am an Information Systems student (6th semester) with a strong focus on backen
 ### Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,aws,git,github,postman&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,aws,html,css,javascript,git,github,postman&theme=dark" alt="Tech Stack" />
 </p>
 
 ### Let's Connect
